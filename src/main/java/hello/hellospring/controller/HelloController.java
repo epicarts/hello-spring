@@ -39,7 +39,7 @@ public class HelloController {
     static class Hello {
         private String name;
 
-        public String get() {
+        public String getName() {
             return name;
         }
 
